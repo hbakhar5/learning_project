@@ -1,0 +1,53 @@
+body{
+  font-family: montserrat;
+}
+nav{
+  background-color: rgb(85, 37, 10);
+  height: 100px;
+}
+label.logo{
+  color:rgb(15, 1, 1);
+  font-size: 55px;
+  line-height: 90px;
+  padding:0 12px;
+  font-weight: bold;
+  margin-left: 110px;
+  font-family:cursive;
+  letter-spacing: 2px;
+  text-shadow: 0 0 5px white;
+}
+nav ul {
+  float: right;
+  margin-right: 20px;
+}
+nav ul li{
+  display: inline-block;
+  line-height: 70px;
+  margin: 0 5px;
+}
+nav ul li a{
+  color:white;
+  font-size: 17px;
+  text-transform: uppercase;
+  border-radius: 3px;
+  padding: 7px 13px;
+}
+.icon{
+  margin-top: -95px;
+  position:absolute;
+  margin-left: 30px;
+}
+.off{
+  width:80px;
+}
+.ex{
+  text-decoration: none;
+  display: inline-block;
+  color: #fff;
+  font-size: 24px;
+  border: 2px solid white;
+  padding: 14px 70px;
+  border-radius: 50px;
+  letter-spacing: 2px;
+  margin-left: 670px;
+}
